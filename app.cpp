@@ -5,6 +5,7 @@ int main(){
 for(int i=0;i<n;i++){
     cout<<"hello world"<<endl;
     cout<<"hi";
+    cout<<"my name is kshitij"<<endl;
 }
 return 0;
 }
