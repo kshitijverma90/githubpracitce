@@ -4,6 +4,7 @@ int main(){
     int n=100;
 for(int i=0;i<n;i++){
     cout<<"hello world"<<endl;
+    cout<<"hi";
 }
 return 0;
 }
